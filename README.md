@@ -66,7 +66,7 @@ This is not the only way to accomplish these goals
 
 1. The removing secrets setup is in another repo. 
 
-    To do the remove a secret activity, [fork this repo](https://github.com/blgorman/RescueYourGitRepo-RemoveASecret.git):
+    To do the remove a secret activity, [fork this repo](https://github.com/braeden-kelly/cm25-rygruarrrbacp-d):
 
     ```https
     https://github.com/blgorman/RescueYourGitRepo-RemoveASecret.git
